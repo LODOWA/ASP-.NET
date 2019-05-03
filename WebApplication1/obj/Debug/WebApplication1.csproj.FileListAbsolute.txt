@@ -1,0 +1,28 @@
+c:\users\student.laboratoriumita\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\student.laboratoriumita\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\student.laboratoriumita\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\student.laboratoriumita\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+c:\users\student.laboratoriumita\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+c:\users\student.laboratoriumita\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\student.laboratoriumita\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Bartek\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Bartek\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Bartek\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Bartek\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Bartek\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Bartek\Desktop\Nowy folder\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Bartek\Desktop\Nowy folder\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Bartek\Desktop\Nowy folder\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Bartek\Desktop\Nowy folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\Nowy folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\Nowy folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Bartek\Desktop\Nowy folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Bartek\Desktop\Studia\PAP\lab2\projekt\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Bartek\Desktop\Studia\PAP\lab2\projekt\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Bartek\Desktop\Studia\PAP\lab2\projekt\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Bartek\Desktop\Studia\PAP\lab2\projekt\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\Studia\PAP\lab2\projekt\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\Studia\PAP\lab2\projekt\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Bartek\Desktop\Studia\PAP\lab2\projekt\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
